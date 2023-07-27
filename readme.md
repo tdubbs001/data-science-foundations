@@ -1,1 +1,1 @@
-This project explores the relationship between GDP and Life Expectancy across six different countries.
+A selection of projects that I have been working on through the codecademy Data Science Foundations Pathway.
